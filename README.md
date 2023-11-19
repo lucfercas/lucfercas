@@ -1,6 +1,4 @@
-# Hi there 👋
-
-### I'm Lucia, a curious and naturally inquisitive individual.
+# Hi there 👋 I'm Lucia
 
 - 🔭 I’m currently working on a colour palette generator.
 - 🌱 I’m currently learning Node.js with the help of Founders and Coders. 
