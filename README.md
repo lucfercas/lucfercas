@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Lucia
 
 - 🔭 I’m currently working on a colour palette generator.
-- 🌱 I’m currently learning Node.js with the help of Founders and Coders. 
+- 🌱 I’m currently learning Node.js with the help of [Founders and Coders](https://www.foundersandcoders.com). 
 - 💬 Ask me about design and front-end development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucia-fernandez-dev/)
 - 😄 Pronouns: she/her
