@@ -1,7 +1,7 @@
-# Hi there 👋 I'm Lucia
+# Hi there 👋 I'm Lucia (Lucy)
 
 - 🔭 I’m currently working on a microblogging site's [database](https://github.com/FAC29A/blogging-website-SQL).
-- 🌱 I’m currently learning Node.js with the help of [Founders and Coders](https://www.foundersandcoders.com). 
+- 🌱 I’m currently learning Node.js, Express.js & SQL at [Founders and Coders](https://www.foundersandcoders.com). 
 - 💬 Ask me about design and front-end development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucia-fernandez-dev/)
 - 😄 Pronouns: she/her
