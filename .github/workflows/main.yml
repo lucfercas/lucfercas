@@ -31,6 +31,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
+          config_display: columns
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_languages: yes
