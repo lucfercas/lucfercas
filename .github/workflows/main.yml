@@ -15,7 +15,9 @@ jobs:
       - uses: lucfercas/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          optimize: css, xml, svg
+      - uses: lucfercas/metrics@latest
+        with:
+          optimize: svg
           experimental_features: --optimize-svg
 
 # Options
