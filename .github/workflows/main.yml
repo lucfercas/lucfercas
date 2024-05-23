@@ -38,6 +38,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
+          plugin_languages_details: bytes size, percentage
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -46,6 +47,9 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
