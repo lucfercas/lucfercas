@@ -29,7 +29,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: lucfercas
           template: classic
-          base: header, activity, community, repositories, metadata
+          #base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
           config_display: columns
           plugin_languages: yes
