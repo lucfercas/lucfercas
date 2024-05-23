@@ -26,6 +26,6 @@ Eager to contribute a blend of creative thinking, project management, and a proa
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-![Metrics](/github-metrics.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 
