@@ -18,10 +18,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Validate Token
-        run: echo "Token is ${TOKEN:0:7}..."
-        env:
-          TOKEN: ${{ secrets.METRICS_TOKEN }}
+      #- name: Validate Token
+        #run: echo "Token is ${TOKEN:0:7}..."
+        #env:
+         # TOKEN: ${{ secrets.METRICS_TOKEN }}
 
       - name: Metrics
         uses: lowlighter/metrics@latest
@@ -58,6 +58,7 @@ jobs:
       - name: Stars
         uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_stars: yes
           plugin_stars_limit: 4
           repositories_skipped: lucfercas/metrics, lucfercas/codewars
@@ -65,6 +66,7 @@ jobs:
       - name: Topics
         uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
